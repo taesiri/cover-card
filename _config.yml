@@ -2,8 +2,8 @@
 remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
-title: 'My name'
-description: 'I am amazing.'
+title: 'Mohammad Reza Taesiri'
+description: ''
 
 # Images
 avatar: 'avatar.jpg'
@@ -11,26 +11,26 @@ background: 'background.jpg'
 favicon: 'favicon.ico'
 
 # Online profiles
-facebook: ''
-twitter: ''
-linkedin: ''
-instagram: ''
-pinterest: ''
-youtube: ''
-github-user: ''
+# facebook: ''
+twitter: 'taesiri'
+linkedin: 'taesiri/'
+instagram: 'taesiri'
+pinterest: 'mtaesiri'
+youtube: 'UCPx-boVjDWNRzOkSE0_ctMw'
+github-user: 'taesiri'
 #codepen: ''
-#steam: ''
+steam: 'mtaesiri'
 #soundcloud: ''
 #lastfm: ''
 #stack-overflow: ''
-#reddit: ''
-#medium:  ''
+reddit: 'taesiri'
+medium:  'mtaesiri'
 #tumblr: ''
-weibo: ''
-vk: ''
-blog_url: ''
-email: ''
-messenger: ''
+# weibo: ''
+# vk: ''
+# blog_url: ''
+email: 'mtaesiri@gmail.com'
+# messenger: ''
 
 # Advanced settings
 plugins:
